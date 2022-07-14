@@ -1,0 +1,23 @@
+h1{
+    color: orange;
+    padding: auto;
+    border: 10px solid powderblue;
+    margin: 35px 1230px 10px 30px ;
+    text-align: center;
+}
+
+h4{
+    color: orange;
+    padding: auto;
+    border: 10px solid purple;
+    margin: 10px 690px 10px 690px;
+    text-align: center;
+}
+
+
+:visited{
+    color: orange;
+}
+:active{
+    color: black;
+}
